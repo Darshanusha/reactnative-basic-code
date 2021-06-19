@@ -1,4 +1,5 @@
-npx expo-cli init food
+npx expo-cli init <folder-name>
+cd <folder-name>
 npm install react-navigation
 npm install react-native-gesture-handler
 npm install react-navigation-stack
